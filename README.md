@@ -1,2 +1,2 @@
 # SmartParking
-"The following project defines the behavior of a SmartParking system, namely an automated intelligent parking facility. 
+The following project defines the behavior of a SmartParking system, namely an automated intelligent parking facility. It keeps track of entries and exits, and based on the number of available spaces, decides whether to allow a new customer to enter or not. For implementation, an ESP32 Wifi module is used. The code is written in C and PHP (to have a database/website for remote monitoring of the parking dynamics, such as available parking spaces).
